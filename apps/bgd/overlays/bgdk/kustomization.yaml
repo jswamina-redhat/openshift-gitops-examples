@@ -6,7 +6,7 @@ resources:
 - bgdk-ns.yaml
 patchesJson6902:
   - target:
-      version: v1
+      version v1
       group: apps
       kind: Deployment
       name: bgd
